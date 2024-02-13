@@ -1,8 +1,5 @@
 <template>
-  <Head>
-    <title>About</title>
-    <meta name="description" content="Your page description" />
-  </Head>
+  
 
   <div>
     <AppLayout>
@@ -21,8 +18,6 @@
 </template>
   
   <script setup>
-import { Link } from "@inertiajs/vue3";
-import { Head } from "@inertiajs/vue3";
 import AppLayout from "../Layouts/App.vue";
 </script>
 
