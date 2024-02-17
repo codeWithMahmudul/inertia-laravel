@@ -68,7 +68,3 @@
 <script setup>
 import AppLayout from "../Layouts/App.vue";
 const props = defineProps({ contactMessage: Array, contact2: String })
-
-</script>
-    
-<style lang="scss" scoped></style>

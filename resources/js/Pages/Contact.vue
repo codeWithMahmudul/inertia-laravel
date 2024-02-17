@@ -86,5 +86,3 @@ function submit() {
   form.post('/contact')
 }
 </script>
-  
-<style lang="scss" scoped></style>
